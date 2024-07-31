@@ -24,7 +24,7 @@
     "build:copy": "node src/copy.js",
     "lint": "dts lint",
     "size": "size-limit",
-    "dev": "ladle serve",
+    "dev": "",
     "deploy": "ladle build",
     "preview": "ladle build && ladle preview -p 61000",
     "format": "prettier --write src/",
